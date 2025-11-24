@@ -7,7 +7,7 @@
     "classnames": "^2.2.6",
     "font-picker": "^3.0.2",
     "font-picker-react": "^3.0.0",
-    "react": "^16.8.6",
+    "react": "^16.14.0",
     "react-dom": "^16.8.6",
     "react-flags-select": "^1.1.10",
     "react-scripts": "2.1.8",
