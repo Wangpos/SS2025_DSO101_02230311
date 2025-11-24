@@ -5,7 +5,7 @@
   "homepage": ".",
   "dependencies": {
     "classnames": "^2.2.6",
-    "font-picker": "^3.0.2",
+    "font-picker": "^3.5.1",
     "font-picker-react": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
